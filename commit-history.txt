@@ -32,3 +32,4 @@ Fixed bug in time-series analysis of HRV - 2025-03-20
 Enhanced depression risk scoring mechanism - 2024-04-08
 Optimized training pipeline for large datasets - 2024-05-23
 Updated loss function to reduce MAE - 2024-07-21
+Enhanced robustness of AI model to noise - 2024-04-09
