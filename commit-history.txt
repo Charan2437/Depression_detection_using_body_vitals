@@ -4,3 +4,4 @@ Integrated stress level estimation module - 2024-05-10
 Tested model generalization on unseen datasets - 2025-03-05
 Fixed bug in time-series analysis of HRV - 2024-04-27
 Improved accuracy of model with latest dataset - 2025-01-10
+Added new metrics for depression severity classification - 2024-04-11
