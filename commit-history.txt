@@ -2,3 +2,4 @@ Ran experiments with new activation functions - 2024-10-18
 Increased model efficiency with batch normalization - 2024-12-11
 Integrated stress level estimation module - 2024-05-10
 Tested model generalization on unseen datasets - 2025-03-05
+Fixed bug in time-series analysis of HRV - 2024-04-27
