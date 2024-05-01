@@ -20,3 +20,4 @@ Added new metrics for depression severity classification - 2024-08-24
 Ran experiments with new activation functions - 2024-08-20
 Validated model predictions with clinical data - 2025-01-22
 Improved feature selection for BP and HRV - 2024-10-22
+Updated loss function to reduce MAE - 2024-05-01
