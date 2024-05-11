@@ -7,3 +7,4 @@ Improved accuracy of model with latest dataset - 2025-01-10
 Added new metrics for depression severity classification - 2024-04-11
 Updated loss function to reduce MAE - 2024-11-19
 Optimized training pipeline for large datasets - 2024-04-17
+Updated loss function to reduce MAE - 2024-05-11
