@@ -44,3 +44,4 @@ improved the accuracy of the model - 2024-08-23
 Enhanced robustness of AI model to noise - 2024-09-30
 Created custom dataset split for training - 2024-03-30
 Implemented feature extraction for oxygen levels - 2025-02-20
+Fixed bug in time-series analysis of HRV - 2024-06-06
