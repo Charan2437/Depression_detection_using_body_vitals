@@ -25,3 +25,4 @@ body vitals model improved - 2025-02-15
 Cleaned dataset to remove noisy signals - 2024-10-20
 Improved feature selection for BP and HRV - 2024-11-14
 Incorporated support for wearable device data - 2024-09-26
+Fixed bug in time-series analysis of HRV - 2024-06-18
