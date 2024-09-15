@@ -37,3 +37,4 @@ Updated visualization for vital sign trends - 2025-02-04
 Validated model predictions with clinical data - 2024-06-17
 Improved accuracy of model with latest dataset - 2025-02-22
 Integrated stress level estimation module - 2024-09-12
+Analyzed correlation between HRV and depression - 2024-09-15
