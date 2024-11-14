@@ -23,3 +23,4 @@ Improved feature selection for BP and HRV - 2024-10-22
 Updated loss function to reduce MAE - 2024-05-01
 body vitals model improved - 2025-02-15
 Cleaned dataset to remove noisy signals - 2024-10-20
+Improved feature selection for BP and HRV - 2024-11-14
