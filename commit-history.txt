@@ -14,3 +14,4 @@ Refined data collection process for ECG signals - 2024-11-19
 Integrated AI-based pattern recognition for vitals - 2024-06-26
 body vitals model improved - 2024-11-20
 Incorporated support for wearable device data - 2024-06-08
+Increased model efficiency with batch normalization - 2024-12-08
