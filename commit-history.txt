@@ -1,1 +1,2 @@
 Ran experiments with new activation functions - 2024-10-18
+Increased model efficiency with batch normalization - 2024-12-11
