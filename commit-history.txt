@@ -18,3 +18,4 @@ Increased model efficiency with batch normalization - 2024-12-08
 Improved data synchronization for wearable inputs - 2025-01-29
 Added new metrics for depression severity classification - 2024-08-24
 Ran experiments with new activation functions - 2024-08-20
+Validated model predictions with clinical data - 2025-01-22
