@@ -39,3 +39,4 @@ Improved accuracy of model with latest dataset - 2025-02-22
 Integrated stress level estimation module - 2024-09-12
 Analyzed correlation between HRV and depression - 2024-09-15
 Improved accuracy of model with latest dataset - 2024-07-23
+Implemented anomaly detection for vitals - 2025-01-23
