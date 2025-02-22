@@ -35,3 +35,4 @@ Updated loss function to reduce MAE - 2024-07-21
 Enhanced robustness of AI model to noise - 2024-04-09
 Updated visualization for vital sign trends - 2025-02-04
 Validated model predictions with clinical data - 2024-06-17
+Improved accuracy of model with latest dataset - 2025-02-22
