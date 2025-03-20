@@ -28,3 +28,4 @@ Incorporated support for wearable device data - 2024-09-26
 Fixed bug in time-series analysis of HRV - 2024-06-18
 Fixed bug in time-series analysis of HRV - 2024-10-20
 Improved feature selection for BP and HRV - 2024-07-16
+Fixed bug in time-series analysis of HRV - 2025-03-20
